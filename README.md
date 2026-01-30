@@ -1,11 +1,32 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
+
+# Repositorio de prácticas con Git, GitHub y Python
+
+## Descripción del repositorio
+
+Este repositorio contiene documentación y ejercicios prácticos relacionados con el uso de la consola, la creación y gestión de repositorios con Git, la sincronización con GitHub y el uso del archivo `.gitignore` en proyectos de programación con Python.
+
+El contenido está organizado en archivos Markdown dentro de la carpeta `docs`, donde se explica paso a paso cada uno de los conceptos aprendidos.
+
+---
+
+## Pasos para clonar y ejecutar el proyecto
+
+### 1. Clonar el repositorio
+
+Desde la consola, ejecutar el siguiente comando:
+
+```bash
+git clone URL_DEL_REPOSITORIO
+```
 ## Información del estudiante  
 Nombre del estudiante:  
 Id.:  
 ---
 # Evaluación
 
-### **Descripción de la Actividad:**
+#### **Descripción de la Actividad:**
 
 Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una serie de carpetas y archivos, tal como se describe en las **Instrucciones**. En cada uno de los pasos que realices, debes crear un **commit** (en total, deben ser más de 10). Incluye imágenes, pantallazos y todo lo que consideres necesario para que tu repositorio esté organizado y se entienda. El aspecto visual es importante. Debes utilizar el lenguaje **Markdonw** para mejorar la presentación de tu proyecto.
 
@@ -79,3 +100,18 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 7. **Entrega:**
     - Sube los cambios de tu proyecto al repositorio remoto de GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+  ## TABLA DE CONTENIDO
+
+  [1. Uso de consola](../prog-git-funtamentals-dmanoxx/docs/uso_consola.md)
+
+  [2. Repositorio local](../prog-git-funtamentals-dmanoxx/docs/repositorio_local.md)
+
+  [3.Repositorio Remoto](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
+
+  [4. Archivo .gitignore](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
+
+  [5. Carpeta imagenes](../prog-git-funtamentals-dmanoxx/images/)
+
+
+
