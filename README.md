@@ -107,7 +107,7 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 
   [2. Repositorio local](../prog-git-funtamentals-dmanoxx/docs/repositorio_local.md)
 
-  [3.Repositorio Re](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
+  [3.Repositorio Remoto](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
 
   [ARCHIVO GITIGNORE](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
 
