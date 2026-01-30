@@ -109,7 +109,7 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 
   [3.Repositorio Remoto](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
 
-  [ARCHIVO GITIGNORE](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
+  [4. Archivo .gitignore](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
 
   [CAREPETA DE IMAGENES](../prog-git-funtamentals-dmanoxx/images/)
 
