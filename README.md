@@ -103,15 +103,15 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 
   ## TABLA DE CONTENIDO
 
-  [USO CONSOLA LOCAL](../prog-git-funtamentals-dmanoxx/docs/uso_consola.md)
+  [1. Uso de consola](../prog-git-funtamentals-dmanoxx/docs/uso_consola.md)
 
-  [REPOSITORIO LOCAL](../prog-git-funtamentals-dmanoxx/docs/repositorio_local.md)
+  [2. Repositorio local](../prog-git-funtamentals-dmanoxx/docs/repositorio_local.md)
 
-  [REPOSITORIO REMOTO](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
+  [3.Repositorio Re](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
 
   [ARCHIVO GITIGNORE](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
 
   [CAREPETA DE IMAGENES](../prog-git-funtamentals-dmanoxx/images/)
 
   [ARCHIVO SRC](../prog-git-funtamentals-dmanoxx/src/script.py)
-  
+
