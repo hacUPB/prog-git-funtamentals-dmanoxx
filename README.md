@@ -1,5 +1,25 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
+
+# Repositorio de prácticas con Git, GitHub y Python
+
+## Descripción del repositorio
+
+Este repositorio contiene documentación y ejercicios prácticos relacionados con el uso de la consola, la creación y gestión de repositorios con Git, la sincronización con GitHub y el uso del archivo `.gitignore` en proyectos de programación con Python.
+
+El contenido está organizado en archivos Markdown dentro de la carpeta `docs`, donde se explica paso a paso cada uno de los conceptos aprendidos.
+
+---
+
+## Pasos para clonar y ejecutar el proyecto
+
+### 1. Clonar el repositorio
+
+Desde la consola, ejecutar el siguiente comando:
+
+```bash
+git clone URL_DEL_REPOSITORIO
+
 ## Información del estudiante  
 Nombre del estudiante:  
 Id.:  
