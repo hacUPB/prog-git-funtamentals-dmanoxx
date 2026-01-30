@@ -111,7 +111,7 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 
   [4. Archivo .gitignore](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
 
-  [CAREPETA DE IMAGENES](../prog-git-funtamentals-dmanoxx/images/)
+  [5. Carpeta imagenes](../prog-git-funtamentals-dmanoxx/images/)
 
-  [ARCHIVO SRC](../prog-git-funtamentals-dmanoxx/src/script.py)
+
 
