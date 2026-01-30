@@ -19,14 +19,14 @@ Desde la consola, ejecutar el siguiente comando:
 
 ```bash
 git clone URL_DEL_REPOSITORIO
-
+```
 ## Información del estudiante  
 Nombre del estudiante:  
 Id.:  
 ---
 # Evaluación
 
-### **Descripción de la Actividad:**
+#### **Descripción de la Actividad:**
 
 Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una serie de carpetas y archivos, tal como se describe en las **Instrucciones**. En cada uno de los pasos que realices, debes crear un **commit** (en total, deben ser más de 10). Incluye imágenes, pantallazos y todo lo que consideres necesario para que tu repositorio esté organizado y se entienda. El aspecto visual es importante. Debes utilizar el lenguaje **Markdonw** para mejorar la presentación de tu proyecto.
 
@@ -100,3 +100,18 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 7. **Entrega:**
     - Sube los cambios de tu proyecto al repositorio remoto de GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+  ## TABLA DE CONTENIDO
+
+  [USO CONSOLA LOCAL](../prog-git-funtamentals-dmanoxx/docs/uso_consola.md)
+
+  [REPOSITORIO LOCAL](../prog-git-funtamentals-dmanoxx/docs/repositorio_local.md)
+
+  [REPOSITORIO REMOTO](../prog-git-funtamentals-dmanoxx/docs/repositorio_remoto.md)
+
+  [ARCHIVO GITIGNORE](../prog-git-funtamentals-dmanoxx/docs/Archivo_gitignore.md)
+
+  [CAREPETA DE IMAGENES](../prog-git-funtamentals-dmanoxx/images/)
+
+  [ARCHIVO SRC](../prog-git-funtamentals-dmanoxx/src/script.py)
+  
